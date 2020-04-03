@@ -9,6 +9,6 @@
  ### Progressive Web Application : https://p17gera.netlify.com/gallery/pwa
  ## Τα links των νέων αρχείων :
  ### Blockchain : https://github.com/p17gera/gr/blob/master/_gallery/blockchain.md
- ### Progressive Web Application : https://github.com/p17gera/gr/blob/master/_gallery/pwa.md
+ ### Progressive Web Application : https://github.com/p17gera/gr/blob/master/_gallery/PWA.md
  
  # ----------------------------------------------
